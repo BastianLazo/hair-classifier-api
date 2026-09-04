@@ -1,0 +1,14 @@
+{
+  "class_names": [
+    "straight",
+    "wavy",
+    "curly",
+    "dreadlocks",
+    "kinky"
+  ],
+  "test_accuracy": 0.8896321058273315,
+  "test_loss": 1.152431607246399,
+  "model_path": "/content/drive/MyDrive/MonsiteIA/models/final/hair_classifier_v2.keras",
+  "tensorflow_version": "2.20.0",
+  "keras_version": "3.13.2"
+}
